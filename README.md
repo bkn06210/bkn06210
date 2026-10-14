@@ -5,8 +5,16 @@
 
 처음 보는 기술도 일단 만들어 보며 익히는 개발자입니다.  
 
+<br/>
+
+### Running
+
+**[Scholaw AI](https://scholawai.com)** · 법학 학습 플랫폼, 운영 중  
+로스쿨 학생의 판례 정리, 노트, 시험 대비를 한곳에 모은 AI 학습 도구입니다. Claude Code를 활용해 개발하고 운영하고 있습니다.
 
 <br/>
+
+
 
 ### Tech Stack
 
@@ -15,7 +23,7 @@
 
 
 **Backend**  
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-DC382D?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-4B4B4B?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
 
 **Frontend**  
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
@@ -28,6 +36,7 @@
 
 **Testing / Security**  
 <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=flat-square"/> <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white"/> <img src="https://img.shields.io/badge/Semgrep-1B1F23?style=flat-square&logo=semgrep&logoColor=white"/> <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=trivy&logoColor=white"/>
+
 
 <br/>
 
